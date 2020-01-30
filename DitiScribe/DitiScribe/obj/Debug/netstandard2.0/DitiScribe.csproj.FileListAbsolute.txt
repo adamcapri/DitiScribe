@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\bin\Debug\netstandard2.0\DitiScribe.deps.json
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\bin\Debug\netstandard2.0\DitiScribe.dll
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\DitiScribe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\DitiScribe.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\DitiScribe.AssemblyInfo.cs
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\bin\Debug\netstandard2.0\ref\DitiScribe.dll
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\bin\Debug\netstandard2.0\DitiScribe.pdb
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\DitiScribe.dll
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\ref\DitiScribe.dll
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\DitiScribe.pdb
+C:\Users\User\source\repos\DitiScribe\DitiScribe\DitiScribe\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,194 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "DitiScribe/1.0.0": {
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.3.101.31",
+          "AWSSDK.Core": "3.3.104.21",
+          "AWSSDK.S3": "3.3.110.19",
+          "NETStandard.Library": "2.0.3",
+          "Plugin.AudioRecorder": "1.1.0",
+          "Xamarin.Essentials": "1.2.0",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "DitiScribe.dll": {}
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.3.101.31": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104.21",
+          "AWSSDK.SecurityToken": "3.3.104.26"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.31"
+          }
+        }
+      },
+      "AWSSDK.Core/3.3.104.21": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.21"
+          }
+        }
+      },
+      "AWSSDK.S3/3.3.110.19": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104.21"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.110.19"
+          }
+        }
+      },
+      "AWSSDK.SecurityToken/3.3.104.26": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104.21"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.26"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.AudioRecorder/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.AudioRecorder.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.2.0": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/4.2.0.709249": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DitiScribe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.CognitoIdentity/3.3.101.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Blvk8aVBz4HCWXt0OE628dX78hAhQeXLL/1FGrcEFkDaPyanq9Qnrpg3UpChSgp24K8IqIa9jEgts3D9xidy1g==",
+      "path": "awssdk.cognitoidentity/3.3.101.31",
+      "hashPath": "awssdk.cognitoidentity.3.3.101.31.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.3.104.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IVShtTGLrgYq+xlsLI3mVmaXJ+jfFjfS+pV62HN/LUYQn/6Cgfb+7vbWr4LT5cNSss+yue8ZQaLTb7MrAHmHvw==",
+      "path": "awssdk.core/3.3.104.21",
+      "hashPath": "awssdk.core.3.3.104.21.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.3.110.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fvT6t+Jho8WACcu/EPmvznD2KBnVvfPLnCMAA4RLPvFyPeL6IsQa/tDgCKH8iXsIjxd/4OiJvR0BYOFsNB7U6w==",
+      "path": "awssdk.s3/3.3.110.19",
+      "hashPath": "awssdk.s3.3.3.110.19.nupkg.sha512"
+    },
+    "AWSSDK.SecurityToken/3.3.104.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IzdIaEWXi6aPapNOUVvsxMWX4QEsZxMaTQ3Qr9zipwWqkr1r9bOVaagaqpLLzoS1AXSgpPO+IyfwchRUA2rRzw==",
+      "path": "awssdk.securitytoken/3.3.104.26",
+      "hashPath": "awssdk.securitytoken.3.3.104.26.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.AudioRecorder/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qa8tAuqWeIKfnFLVKhGgaHhbtw7T2Ec/5smgJstyatQ97uViUIqAVTpzdyij11VOovxTGXO4xBBkYanJmzv21g==",
+      "path": "plugin.audiorecorder/1.1.0",
+      "hashPath": "plugin.audiorecorder.1.1.0.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o3i5uAchUpAvAlJX0onYFFiDo6jpKl9vgvrdDtXEuEfum0UDrSx8oGGBUjlFyUoRpvWVumXwo0VS3AbzuwEofg==",
+      "path": "xamarin.essentials/1.2.0",
+      "hashPath": "xamarin.essentials.1.2.0.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.2.0.709249": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3DWqPSn9kSKJW5mwjmICV/+4IpPQrequEN1VXUhsF0i9KKnfj49jFk9VbJnT9o2aesJAk00NED67XPbSmbxKjw==",
+      "path": "xamarin.forms/4.2.0.709249",
+      "hashPath": "xamarin.forms.4.2.0.709249.nupkg.sha512"
+    }
+  }
+}
